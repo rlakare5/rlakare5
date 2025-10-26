@@ -2,8 +2,9 @@
 
 <!-- 🖼️ Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Rohit+Lakare;Full+Stack+Developer+💻;Web+Development+Enthusiast+🚀;Open+Source+Explorer+🌍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=0CF5E9&center=true&vCenter=true&width=850&lines=console.log('Hello+World+🌍');I'm+Rohit+Lakare+💻;Full+Stack+Developer+%7C+Web+Architect+%7C+Tech+Innovator;Let's+Build+Something+Awesome+Together!+🚀" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" />

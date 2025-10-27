@@ -116,4 +116,4 @@
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories, fork a project, or drop a message — let’s build something awesome together!* 🚀
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories, fork a project or drop a message — let’s build something awesome together!* 🚀

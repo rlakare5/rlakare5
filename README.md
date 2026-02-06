@@ -78,18 +78,6 @@
 
 ---
 
-### 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rlakare5&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlakare5&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlakare5&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🤝 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/rohitlakare5/" target="_blank">
